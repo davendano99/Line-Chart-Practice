@@ -1,5 +1,7 @@
 # Annotated Line Chart with Highcharts
 
+https://github.com/davendano99/Line-Chart-Practice/blob/main/Line-chart.png.jpg
+
 ![Annotated line chart](./line-chart.png)
 
 ## Demo
